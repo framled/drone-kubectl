@@ -12,5 +12,3 @@ if [ ! -f ${INIT_FILE} ]; then
 fi
 
 kubectl $@
-
-
